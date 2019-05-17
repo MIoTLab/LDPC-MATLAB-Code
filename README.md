@@ -3,4 +3,4 @@ LDPC for Flash
 
 ## Usage
 
-Just run `*.m` code in this directory to get encode/decode results. 
+Just run `ldpc_demo0.m` code in this directory to get the ldpc encode/decode results. 
